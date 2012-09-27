@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CloudLogin2", "CloudLogin2\CloudLogin2.ccproj", "{FCFD92D4-5B1B-4038-82A0-B5FECB4D8C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{75075767-FEC1-430D-97D4-DE1B41E1E29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFD92D4-5B1B-4038-82A0-B5FECB4D8C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFD92D4-5B1B-4038-82A0-B5FECB4D8C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFD92D4-5B1B-4038-82A0-B5FECB4D8C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFD92D4-5B1B-4038-82A0-B5FECB4D8C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75075767-FEC1-430D-97D4-DE1B41E1E29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75075767-FEC1-430D-97D4-DE1B41E1E29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75075767-FEC1-430D-97D4-DE1B41E1E29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75075767-FEC1-430D-97D4-DE1B41E1E29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
